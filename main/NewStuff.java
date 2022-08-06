@@ -5,6 +5,8 @@ public class NewStuff {
         int max = 40;
         int r = (int) (Math.random() * (max - min + 1) + min );
 
+        //comment
+
 
     }
 }
